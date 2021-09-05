@@ -17,6 +17,7 @@ public class InterfaceExample {
      */
     public static void main(String[] args) {
         Interface1 obj = new MyClass();
+        //System.out.println(Interface1.val);
         
         
         
